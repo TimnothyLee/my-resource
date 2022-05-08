@@ -1,11 +1,9 @@
-https://www.baidu.com/s?ie=UTF-8&wd=go%20net%E5%8C%85%E6%BA%90%E7%A0%81
+http://zhangtielei.com/posts/blog-redlock-reasoning.html
 
-https://studygolang.com/articles/25961
+http://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453157594&idx=1&sn=61533e83071f8fcc41257ee599c21f2b&chksm=8cfd1459bb8a9d4fd52bd8bbba361f1531ab4e351c5ba3c4114831f5af479925878f61cc3298&scene=126&&sessionid=1649518914#rd
 
-https://zhuanlan.zhihu.com/p/101995755
+https://www.luozhiyun.com/archives/527
 
-https://www.cnblogs.com/show58/p/12627808.html
+布隆过滤器
 
-https://studygolang.com/static/pkgdoc/
-
-https://www.bilibili.com/video/BV1JP4y1s7rS?spm_id_from=333.999.0.0
+一致性哈希
